@@ -20,7 +20,7 @@ jobs:
             target: ath79-generic
 
           - arch: mipsel_24kc
-            target: mt7621
+            target: mt7620
 
           - arch: aarch64_cortex-a53
             target: mvebu-cortexa53
